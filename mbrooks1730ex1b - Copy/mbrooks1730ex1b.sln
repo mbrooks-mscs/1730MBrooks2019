@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mbrooks1c1", "..\mbrooks1c1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mbrooks1d1", "..\mbrooks1d1\mbrooks1d1.csproj", "{4474630B-BB36-417B-9919-DDA1B3E6C63A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mbrooksEx1e", "..\mbrooksEx1e\mbrooksEx1e.csproj", "{A4A135E3-081A-4972-B0C4-8A9655A1264F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4474630B-BB36-417B-9919-DDA1B3E6C63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4474630B-BB36-417B-9919-DDA1B3E6C63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4474630B-BB36-417B-9919-DDA1B3E6C63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A135E3-081A-4972-B0C4-8A9655A1264F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A135E3-081A-4972-B0C4-8A9655A1264F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A135E3-081A-4972-B0C4-8A9655A1264F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A135E3-081A-4972-B0C4-8A9655A1264F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
