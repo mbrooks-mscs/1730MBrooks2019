@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mbrooksEx1e", "..\mbrooksEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mbrooks1f1", "..\mbrooks1f1\mbrooks1f1.csproj", "{75E3CD9A-51D9-4926-B11B-E37463C0499F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variablesampler", "..\variablesampler\variablesampler.csproj", "{F37EA0FD-856C-471F-8757-32760B2F78D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mbrooks2a1", "..\mbrooks2a1\mbrooks2a1.csproj", "{12C909C2-E79B-4DCD-B6D8-FF7D61CB6903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{75E3CD9A-51D9-4926-B11B-E37463C0499F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75E3CD9A-51D9-4926-B11B-E37463C0499F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75E3CD9A-51D9-4926-B11B-E37463C0499F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37EA0FD-856C-471F-8757-32760B2F78D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37EA0FD-856C-471F-8757-32760B2F78D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37EA0FD-856C-471F-8757-32760B2F78D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37EA0FD-856C-471F-8757-32760B2F78D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C909C2-E79B-4DCD-B6D8-FF7D61CB6903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C909C2-E79B-4DCD-B6D8-FF7D61CB6903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C909C2-E79B-4DCD-B6D8-FF7D61CB6903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C909C2-E79B-4DCD-B6D8-FF7D61CB6903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
